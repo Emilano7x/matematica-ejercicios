@@ -1,4 +1,4 @@
-# matematica-ejercicios
+# matematica1-ejercicios
 Ejercicios practicos resueltos con calculadora y Symbolab
 
 Pizarra online para matematicas:
